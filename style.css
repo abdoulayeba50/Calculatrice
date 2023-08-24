@@ -15,7 +15,6 @@ body{
 .calculatrice{
     background-color: #222222;
     display: flex;
-    margin-left: 650px;
     flex-direction: column;
     padding: 15px;
     border-radius: 5px;
